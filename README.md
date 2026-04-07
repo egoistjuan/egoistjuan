@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hola, soy Juan Mendoza
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&lines=Software+Engineer+Student;Aprendiendo+NLP;Mejorando+mi+lógica)
 
-<!--
-**egoistjuan/egoistjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
+- 🎧 Apasionado de la música y el desarrollo de aplicaciones en Python
 
-Here are some ideas to get you started:
+------
+##  Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente me encuentro aprendiendo TypeScript y NLP
+- 🌱 Mejorando mi lógica de programación
+- 🌐 Explorando Oracle Cloud y pipelines de ML
+
+------
+
+## ML / Data
+![Python ML](https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge&logo=python)
+
+## Cloud
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle)
+
+## Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+## Security
+![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+-------
+## 🚀 Proyecto Destacado
+
+### 🧠 StudentOverFlow
+
+Plataforma web inspirada en StackOverflow donde los usuarios pueden hacer preguntas y obtener respuestas.
+
+🔧 Tecnologías:
+- Flask
+- HTML
+- Python
+
+✨ Funcionalidades:
+- Publicación de preguntas
+- Sistema básico de respuestas
+- Renderizado dinámico con Flask
+
+📌 Objetivo:
+Simular el funcionamiento de foros tipo StackOverflow para entender el flujo backend-frontend.
+
+👉 [Ver repositorio](https://github.com/egoistjuan/StudentOverFlow)
+
+-------
+
+## Contacto 🎲
+- 👾 Email: mendozariverajuanomar@gmail.com
+- 🎮 LinkedIn: [Mi perfil](https://www.linkedin.com/in/juan-carlos-mendoza-hern%C3%A1ndez-060752299/)
