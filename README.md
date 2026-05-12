@@ -10,6 +10,7 @@
 - 🔭 Actualmente me encuentro aprendiendo TypeScript y NLP
 - 🌱 Mejorando mi lógica de programación
 - 🌐 Explorando Oracle Cloud y pipelines de ML
+- 🔐 Explorando ciberseguridad: Nmap, scripting en Python y actualmente en TryHackMe
 
 ------
 
@@ -25,8 +26,9 @@
 ## Automation
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## Security
-![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+## Security & Networking
+[![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 -------
 ## 🚀 Proyecto Destacado
